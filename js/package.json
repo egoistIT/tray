@@ -6,9 +6,11 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "tray": "egoistIT/tray#master",
+
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/qzind/tray.git"
+        "url": "git+https://github.com/egoistIT/tray.git"
     },
     "keywords": [
         "Printing",
@@ -24,9 +26,5 @@
         "BOCA"
     ],
     "author": "QZ Industries, LLC",
-    "license": "LGPL-2.1",
-    "bugs": {
-        "url": "https://github.com/qzind/tray/issues"
-    },
-    "homepage": "https://github.com/qzind/tray#readme"
+    "license": "LGPL-2.1"
 }
